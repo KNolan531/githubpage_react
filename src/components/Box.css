@@ -1,12 +1,53 @@
-.box1 {
+.updateBox {
     background: #585858;
     border-radius: 8px;
+    border: solid black; 
+    box-shadow: 5px 5px 5px rgba(27, 27, 27, 0.651);
+    padding: 4px;
+    width: 340px;
+    
+       
+    
+  }
+
+  .mainBox {
+    background: #585858;
+    border-radius: 8px;
+    border: solid black; 
     box-shadow: 5px 5px 5px rgba(27, 27, 27, 0.651);
     padding: 8px;
-    width: 300px;
-    margin-left: 800px; 
-    margin-top: 18px;     
-    
+    width: 1500px;
+    height: 900px; 
+    word-wrap:break-word; 
+    text-align: left; 
+        
+    }
+
+  
+
+  .mainBox p { 
+    margin-left: 5em; 
+  }
+
+.container { 
+    margin-left: 8em;  
+
+}
+
+  .contentBox {
+    background: #585858;
+    border-radius: 8px;
+    border: solid black; 
+    box-shadow: 5px 5px 5px rgba(27, 27, 27, 0.651);
+    padding:15px;
+    margin-left: 16px; 
+    width: 360px; 
+    float: left; 
+
+  }
+
+  .p2 { 
+    margin-left:-2em ; 
   }
   
   .boxHeading {
@@ -21,3 +62,25 @@
     white-space: pre-wrap;
     word-wrap: break-word;
   }
+
+  .notepad { 
+    width: 100%;
+      height: auto;
+      min-height: 1000px;
+      max-width: 1800px;
+      min-width: 340px;
+      background: #585858;
+      background-image: radial-gradient(#095f09 24.2%, transparent 0);
+      background-size: 20px 25px;
+      border-radius: 20px;
+      box-shadow: 4px 3px 7px 2px #00000040;
+      padding: 1rem;
+      box-sizing: border-box;
+      border: solid black; 	
+      word-wrap:break-word; 
+      font-size: 20px;  
+      margin-top: 10px;   
+
+      
+    }
+
