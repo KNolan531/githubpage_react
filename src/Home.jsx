@@ -1,17 +1,12 @@
 import React from "react";
 import Card from "./components/Card";
+import Box from "./components/Box";
 
 
 function Home () {
   return (
     <>
-
-    
-      <p>Test</p>
-      <p> Test</p>
-      <p>Test</p>
-      <p> Test</p><p>Test</p>
-      <p> Test</p><p>Test</p>
+      <Box /> 
       
     </>
   )
