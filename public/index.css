@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background-color: rgb(9, 95, 9);
+  align-items: center; 
+
+     
+}
+
+.titleHeading { 
+  color: black; 
+  text-align: center;  
+  text-shadow: 3px 4px green;
+  font-family: Times New Roman; 
+  font-size: 4em; 
+  text-decoration: strong; 
+  margin: 14px;  
+
+  
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+

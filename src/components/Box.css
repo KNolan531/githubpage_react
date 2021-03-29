@@ -1,0 +1,23 @@
+.box1 {
+    background: #585858;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px rgba(27, 27, 27, 0.651);
+    padding: 8px;
+    width: 300px;
+    margin-left: 800px; 
+    margin-top: 18px;     
+    
+  }
+  
+  .boxHeading {
+    font-size: 1.2em;
+    margin-bottom: 6px;
+    text-align: center; 
+    font-family: Arial; 
+  }
+  .box1 p {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
